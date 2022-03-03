@@ -1,0 +1,18 @@
+Agenda:
+1. Pregled zadataka sa casa 6
+2. Prijava bugova
+3. Struktura foldera i fajlova
+4. txt, json, xmal fajlova
+    4.1 name-ing konvencija
+    4.2 strukura txt file-va
+    4.3 struktura json file-va
+        4.3.1 primjenjiva i vrijednost
+        4.3.2 tip promjenjive: string, broj, null, niz, objekat, bool <-osnovno izlaganje
+5. Instaliranje VS editora https://code.visualstudio.com/download
+
+Kljucne rijeci: bug, json, xml, git, text editor
+Zadaca:
+cas7zadatak.txt
+
+Prisutnost:
+ivan, slobodan

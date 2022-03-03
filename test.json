@@ -1,0 +1,19 @@
+{
+    "environmentId": "integration",
+    "users": [
+        {
+            "accountId": "36346-36346-346346-246246",
+            "login": "sinisa.gutovic+integrationnew35345@everon.io",
+            "firstName": "Default Account",
+            "lastName": "Owner",
+            "password": "ThisIsMyPassword12345",
+            "language": "en-GB",
+            "roles": [
+                "ACCOUNT_OWNER",
+                "ADMIN",
+                "DRIVER"
+            ],
+            "invitedBy": "users"
+        }
+    ]
+}
